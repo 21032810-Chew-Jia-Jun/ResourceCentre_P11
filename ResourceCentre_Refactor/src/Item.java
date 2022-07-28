@@ -1,6 +1,7 @@
 
 public class Item {
 	private String assetTag;
+	//hock cheng-for CI exercise
 	private String description;
 	private String dueDate;
 	private boolean isAvailable;
