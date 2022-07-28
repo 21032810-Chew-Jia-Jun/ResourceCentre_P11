@@ -30,7 +30,7 @@ public class Item {
 		}
 		return avail;
 	}
-
+	//Kasendra's modification
 	public String getAssetTag() {
 		return assetTag;
 	}
